@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Proper orientations and proper chromatic number"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: journal
+permalink: [/publication/2009-10-01-paper-title-number-1](https://www.sciencedirect.com/science/article/abs/pii/S0095895623000114)
+author：Yaobin Chen, Bojan Mohar, Hehui Wu.
+excerpt: 'The proper orientation number χ→(G) of a graph G is the minimum k such that there exists an orientation of the edges of G with all vertex-outdegrees at most k and such that for any adjacent vertices, the outdegrees are different. Two major conjectures about the proper orientation number are resolved. First it is shown, that χ→(G) of any planar graph G is at most 14. Secondly, it is shown that for every graph, χ→(G) is at most Image 1, where r= χ (G) is the usual chromatic number of the graph, and Image 2 is the maximum average degree taken over all subgraphs of G. Several other related results are derived. Our proofs are based on a novel notion of fractional orientations.'
+date: 2023-07-01
+venue: 'Journal of Combinatorial Theory, Series B'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
