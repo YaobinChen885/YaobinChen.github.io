@@ -1,5 +1,5 @@
 ---
-title: "Proper orientations and proper chromatic number" (Yaobin Chen, Bojan Mohar and Hehui Wu)
+title: "Proper orientations and proper chromatic number (Yaobin Chen, Bojan Mohar and Hehui Wu)"
 collection: publications
 category: journal
 permalink:  https://www.sciencedirect.com/science/article/abs/pii/S0095895623000114
