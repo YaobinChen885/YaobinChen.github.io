@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-=====
-I'm a third year undergraduate student from [Shanghai center for mathematics](https://icse.uestc.edu.cn/), [Fudan University, Shanghai](https://uestc.edu.cn/). My research interest includes extremal combinatorics such as Ramset problem, spanning structure, set theory and so on.
+
+I'm a third year undergraduate student from [Shanghai center for mathematics][(https://scms.fudan.edu.cn/)], [Fudan University, Shanghai][(https://www.fudan.edu.cn/en/)]. My research interest includes extremal combinatorics such as Ramset problem, spanning structure, set theory and so on.
 
