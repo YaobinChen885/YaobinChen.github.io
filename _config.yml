@@ -12,7 +12,7 @@ title                    : "Yaobin Chen/ Homepage"
 title_separator          : "-"
 name                     : &name "Yaobin Chen"
 description              : &description "PhD student of Mathematics"
-url                      : https://aobinchen885.github.io/YaobinChen.github.io/# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://YaobinChen885.github.io# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YaobinChen885/YaobinChen.github.io"
 
